@@ -10,4 +10,6 @@ This is my first digital portfolio.
 
 ## Modifications to make
 
--
+- [ ] Add CSS to the project
+- [ ] Add JS to the project
+- [ ] Add HTML to the project
